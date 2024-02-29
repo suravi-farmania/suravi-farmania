@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Suravi Farmania], a passionate developer from [Kolkata, India]. Welcome to my GitHub profile!
+I'm Suravi Farmania, a backend developer from Kolkata, India. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
