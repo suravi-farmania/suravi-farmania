@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Suravi Farmania, a backend developer from Kolkata, India.
 
-I'm Suravi Farmania, a backend developer from Kolkata, India. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -34,13 +34,6 @@ I'm Suravi Farmania, a backend developer from Kolkata, India. Welcome to my GitH
 - [ ] Redis Advanced
 
 [![@suravi48's Holopin board](https://holopin.io/api/user/board?user=suravi48)](https://holopin.io/@suravi48)
-
-## 📊 GitHub Stats
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suravi-farmania&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/suravi-farmania)
-
-## 🤝 Let's connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/suravifarmania/)
-
 
 Thanks for visiting! 😄
 
